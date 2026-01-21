@@ -1,0 +1,46 @@
+ 
+body{
+   margin: 0%;
+   padding: 0%;
+   max-width: 1490px; 
+   text-align: center;
+    
+}
+.dan-list-img{
+    min-height:60px;
+    min-width:100px;
+    max-width: 300px;
+    border:1px solid black;
+    background-color: bisque;
+}
+.dan-list-name{
+    min-height:60px;
+    min-width:100px;
+    max-width: 300px;
+    background-color: bisque;
+    text-align: left;
+    font-size: large;
+    
+}
+.dan-list-Rs{
+    min-height:60px;
+    min-width:100px;
+    max-width: 300px;
+    background-color: bisque;
+    text-align: left;
+    font-size:large;
+    
+}
+.dan-row{
+    
+    margin-top: 2px;
+}
+img{
+    padding: 2px;
+    min-height:60px;
+    min-width:60px;
+    max-width: 100px;
+    margin: 1px;
+    
+}
+ 

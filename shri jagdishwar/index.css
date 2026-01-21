@@ -1,0 +1,90 @@
+  body{
+    padding:0%;
+    margin-top: 0%;
+    gap: 0%;
+    text-align: center;
+    background-image:url("assets/image/body.jpg") ;
+    background-attachment: fixed;
+ }
+
+ #main{
+  min-width: 300px;
+  margin: 0%;
+  max-width: 1500px;
+ }
+
+ .product-container{
+   min-width: 200px;
+   max-width: 400px;
+   min-height:250px;
+   max-height:500px;
+    
+   background-color: pink;
+    margin: 30px;
+   border-radius: 10px;
+   
+ }
+ .container-text{
+   text-align: center;
+   font-size: x-large;
+   padding: 20px;
+ }
+  #qrimg{
+    max-width: 250px;
+    
+    
+  }
+  #header{
+    background-color: chocolate;
+    margin: 0%;
+    padding: 0%;
+    
+  }
+  #footer{
+    background-color: aquamarine;
+  } 
+  .product-gallary{
+    text-align: center;
+    text-decoration: darkred;
+    padding: 20px;
+  }
+   
+   
+   
+  h1{margin: 0%;}
+ 
+
+.weather-container {
+    background: white;
+    width: 300px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+input {
+    width: 80%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 8px 15px;
+    background: #4facfe;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.weather-box {
+    margin-top: 0%;
+}
+
+.weather-item {
+    background: #f2f2f2;
+    padding: 8px;
+    margin: 6px 0;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
