@@ -1,0 +1,15 @@
+body{
+    background-attachment: fixed;
+    background-color: rgba(173, 174, 172, 0.489);
+}
+.programm-headding{
+    max-width:500px;
+    min-width: 200px;
+    background-color: rgb(235, 85, 48);
+    margin: 0%;
+}
+.programm-img{
+    max-width: 300px;
+    min-width: 200px;
+
+}
